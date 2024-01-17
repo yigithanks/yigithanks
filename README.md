@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yigithan</h1>
 <h3 align="center">Mechanical Engineer, Data Analytics Enthusiast</h3>
 
-- 🔭 I’m currently working at **Şişecam**
+- 🔭 I’m currently working at **Doktar Technologies**
 
 - 🌱 I’m currently taking **DataCamp Professional Data Scientist Boothcamp**
 
