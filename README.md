@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **yigithanks@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1F-uFz0GDGV1KvQNWtDBgJQeyKKbMwug7/view?usp=sharing](https://drive.google.com/file/d/1F-uFz0GDGV1KvQNWtDBgJQeyKKbMwug7/view?usp=sharing)
+- 📄 Know about my experiences: [https://t.ly/ossJK](https://t.ly/ossJK)
 
 - ⚡ Fun fact: **💛❤️Gala Fan💛❤️ I might have more data in my brain than any other data company about football, since I was born. Just a hobby ⚽⚽⚽**
 
