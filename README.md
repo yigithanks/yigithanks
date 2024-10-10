@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yigithan</h1>
 <h3 align="center">🤖🧠Machine Learning Engineer🧠🤖</h3>
 
-- 🔭 I’m currently working at **Doktar Technologies**
+- 🏛️ I am currently pursuing a Masters Degree at **Politecnico di Milano** in **Data Science**
+
+- 🔭 I recently worked at **Doktar Technologies**
 
 - 🌱 I’m currently taking **DataCamp Professional Data Scientist Boothcamp**
 
