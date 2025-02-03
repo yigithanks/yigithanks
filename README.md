@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yigithan</h1>
 <h3 align="center">🤖🧠Machine Learning Engineer🧠🤖</h3>
 
-- 🏛️ I am currently pursuing a Master's Degree at **Politecnico di Milano** in **Data Science**
+- 🏛️ I am currently pursuing a Master's Degree at **Bogazici University** in **Computer Engineering**
 
 - 🔭 I recently worked at **Doktar Technologies**
 
